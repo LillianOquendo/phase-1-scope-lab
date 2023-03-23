@@ -6,7 +6,7 @@ return customerName
 }
 
 function setBestCustomer(){
- var bestCustomer = 'not bob'   
+ bestCustomer = 'not bob'   
  return bestCustomer
 }
 
